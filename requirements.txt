@@ -4,7 +4,7 @@ imageio==2.9.0
 imagesize==1.4.1
 ipython
 ipython-genutils==0.2.0
-ipython-sql==0.3.9
+jupysql
 ipywidgets==7.7.1
 keras==2.9.0
 Keras-Preprocessing==1.1.2
